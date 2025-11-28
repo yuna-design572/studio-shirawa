@@ -28,9 +28,7 @@ html{
     font-size: 100%;
     scroll-behavior: smooth;
 }
-img{
-    max-width: 100%
-}
+
 body {
   font-family: "Shippori Mincho", serif;
   line-height: 1.7;
@@ -38,14 +36,7 @@ body {
   padding: 0 1rem;
 }
 
-a {
-    text-decoration: none;
-}
-html, body {
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden;
-}
+
 hr{
     color: #C8A45A;
     width: 290px;
