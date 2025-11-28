@@ -248,9 +248,7 @@ footer img{
   position: fixed;
   bottom: 40px;
   right: 40px;
-  color: #ffffff;
-  background-color: #444444;
-  font-family: "Playfair", serif;
+  color: #111;
   font-size: 1rem;
   padding: 0.6rem 1rem;
   border-radius: 8px;
@@ -284,7 +282,7 @@ footer{
 }
 hr {
   border: none;             /* デフォルトの線を消す */
-  border-top: 4px solid #C8A45A; /* 好きな色で線を作る */
+  border-top: 2px solid #C8A45A; /* 好きな色で線を作る */
   width: 80%;               /* 横幅（％でもpxでもOK） */
   margin: 40px auto;        /* 上下左右の余白 */
 }
